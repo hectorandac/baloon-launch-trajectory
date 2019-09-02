@@ -1,0 +1,6 @@
+[submodule "wind-balloon-predictor"]
+	path = wind-balloon-predictor
+	url = git@github.com:hectorandac/wind-balloon-predictor.git
+[submodule "predictor-web-interface"]
+	path = predictor-web-interface
+	url = git@github.com:hectorandac/predictor-web-interface.git
